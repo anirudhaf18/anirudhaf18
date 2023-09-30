@@ -4,7 +4,7 @@
 # About Me 🚨
 
 - 👀I'm Anirudha, an Engineering student
-- 💻I’m a front-end developer
+- 💻I’m a software engineer 
 - 🌱I’m currently learning Reactjs
 - 💫Interests: Learning new things, listening songs and watching movies...
 
